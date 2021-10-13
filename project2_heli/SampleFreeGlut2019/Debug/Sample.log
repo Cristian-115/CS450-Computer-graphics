@@ -1,0 +1,9 @@
+﻿  sample.cpp
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(434,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(893,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(895,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(897,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\sample.cpp(899,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\CS\CS-450-Graphics\project2_heli\SampleFreeGlut2019\Debug\Sample.exe
